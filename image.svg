@@ -1,0 +1,11 @@
+<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(250, 60)">
+        <circle cx="0" cy="0" r="22" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+        <circle cx="0" cy="0" r="15" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+        <path d="M0,8 C-3,3 -3,-4 0,-9 C3,-4 3,3 0,8 Z" fill="#FFFFFF"/>
+        <path d="M0,0 C-5,-5 -10,-6 -14,-3 C-8,1 -3,2 0,0 Z" fill="#FFFFFF"/>
+        <path d="M0,0 C5,-5 10,-6 14,-3 C8,1 3,2 0,0 Z" fill="#FFFFFF"/>
+    </g>
+    <text x="250" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" letter-spacing="4" fill="#FFFFFF">RCCG AGAPE CHAPEL</text>
+    <text x="250" y="230" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="90" letter-spacing="6" fill="#FFFFFF">DOXAZO</text>
+</svg>
